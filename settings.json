@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "HackerSmpfun.aternos.me",
+    "port": 60838,
     "version": "1.20.1",
     "try-creative": false
   },
